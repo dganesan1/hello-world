@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
+<h1> Hello,This is sample deploy project   </h1>
+ <body>
+  <p style="color:#FF0000";>Red paragraph text</p>
+</body> 
 <h2> Glad to see you here </h2>
