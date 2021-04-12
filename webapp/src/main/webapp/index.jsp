@@ -1,5 +1,6 @@
-<h1> Hello,This is sample deploy project   </h1>
+<h1> Hello   </h1>
  <body>
-  <p style="color:#FF0000";>Red paragraph text</p>
+  <body style="background-color:pink;">
+   <p style="color:blue">This is demo DevOps project</p>
 </body> 
 <h2> Glad to see you here </h2>
